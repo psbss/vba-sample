@@ -1,0 +1,4 @@
+*.tmp
+*.xls*
+!bin/base_xls/*.xls*
+!src/*

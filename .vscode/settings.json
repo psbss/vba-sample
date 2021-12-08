@@ -1,0 +1,22 @@
+{
+  "[markdown]": {
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": false,
+    "files.encoding": "utf8",
+  },
+  "files.encoding": "shiftjis",
+  "files.associations": {
+    "*.bas": "vb",
+    "*.cls": "vb",
+    "*.dcm": "vb",
+    "*.frm": "vb",
+  },
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "files.trimFinalNewlines": true,
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "editor.tabSize": 4,
+  "editor.insertSpaces": true,
+  "editor.dragAndDrop": false,
+}
